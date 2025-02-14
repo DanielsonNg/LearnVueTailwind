@@ -4,12 +4,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <div class="flex">
-      <div >
-          test
-      </div>
-      <div>
-        test
-      </div>    
+     <router-view />  
   </div>
 </template>
 
